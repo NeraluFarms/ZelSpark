@@ -1,0 +1,7 @@
+ZelSpark build for https://neralufarms.github.io/ZelSpark/
+
+Upload the CONTENTS of this folder to the ROOT of the NeraluFarms/ZelSpark repository.
+Replace existing index.html and other files when asked. Keep all folders, including assets, images, programs, about, contact, studio, approach, partners, and privacy.
+GitHub: repository Settings > Pages > Build and deployment > Deploy from a branch > main > /(root).
+Wait for deployment; open https://neralufarms.github.io/ZelSpark/ and try Programs and a sample course page.
+This is a prebuilt preview with sample course concepts and an unsent enquiry draft.
